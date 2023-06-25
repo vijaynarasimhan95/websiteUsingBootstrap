@@ -1,0 +1,111 @@
+.samsung-logo{
+    height: 50px;
+    width: 130px;
+}
+
+.services-container{
+    background-color: #F7F7F7;
+    
+    border-radius: 10px;
+    padding-top: 30px;
+   
+    
+}
+
+.services{
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+}
+
+
+.service-logo{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+.service-heading{
+    font-size: 14px;
+    font-weight: bold;
+}
+.service-description{
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.about-container{
+    background-color: #F4F4F4;
+    border-radius: 10px;
+
+}
+
+.about-samsung{
+    padding-top: 50px;
+
+}
+.samsung-phone-image{
+    
+    width: 500px;
+    height: 600px;
+}
+.heading{
+    font-size: 30px;
+}
+.description{
+    font-size: 18px;
+}
+
+.features-container{
+    background-color: #0ABE99;
+    border-radius: 10px;
+    
+}
+
+.features-description{
+    
+    text-align: center;
+}
+.card-text{
+    font-size: 14px;
+}
+
+.card:hover{
+    transform: scale(1.15);
+
+}
+.card{
+    transition: all 0.3s;
+}
+
+.testimonial-container{
+    background-color: #F4F4F4;
+    border-radius: 10px;
+}
+
+.avatar{
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.contactUs-container{
+    background-color: #0ABE99;
+}
+
+.form-map-container{
+    background-color: #ffffff;
+
+}
+
+.map-container{
+    height: 100%;
+    width: 100%;
+}
+
+.speaker{
+    color: black;
+
+}
+.testimony{
+    color: black;
+}
