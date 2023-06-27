@@ -64,8 +64,21 @@
     
     text-align: center;
 }
+
+.card-img-top{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+}
+
 .card-text{
     font-size: 14px;
+}
+
+.card-body{
+    width: 200px;
+    height: 300px;
+
 }
 
 .card:hover{
@@ -86,6 +99,15 @@
   width: 200px;
   height: 200px;
   border-radius: 50%;
+}
+
+.center{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+      
 }
 
 .contactUs-container{
